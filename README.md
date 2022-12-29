@@ -19,7 +19,7 @@ The application has both Clieant and Server side built from scratch using ReactJ
 2. It has error handling
 3. It's a built API.
 
-##Note:
+## Note:
 The only thing you might need to change is the server url according to at which URL will the server run at.
 You can find the path set inside of the ".env" file in the "front end" file.
 
