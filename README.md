@@ -13,7 +13,7 @@ The application has both Clieant and Server side built from scratch using ReactJ
 7. Animated table to make viewing a lot easier and better.
 8. Splitted code for better maintainability. 
 
-*As for the server side, it has the following features:
+* As for the server side, it has the following features:
 1. It has the ability to store and retrieve data from the cache using "Redis"
 > To do that you will need to install "Redis" on your system, using homebrew for mac you have to run the following command `brew install redis`.
 2. It has error handling
