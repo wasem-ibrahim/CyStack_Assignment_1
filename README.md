@@ -1,5 +1,5 @@
-# CyStack_Assignment_1
-An implementation to the first full-stack assignment which required creating a website using both ReactJS and Laravel to present certificates of any domain using a website called "crt.sh"
+# Domains Certificates Search
+Creating a website using both ReactJS and Laravel to present certificates of any domain using a website called "crt.sh"
 
 # Features:
 The application has both Clieant and Server side built from scratch using ReactJS on the front-end and Laravel on the Backend.
